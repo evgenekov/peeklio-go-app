@@ -1,3 +1,3 @@
-module sumrak.lan/argus/peeklio-go-app
+module peeklio-go-app
 
 go 1.19
